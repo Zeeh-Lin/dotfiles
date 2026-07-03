@@ -1,0 +1,22 @@
+[user]
+        name = Zeeh-Lin
+        email = 144679645+Zeeh-Lin@users.noreply.github.com
+[core]
+        editor = nvim
+[color]
+        ui = true
+[http]
+        proxy = http://127.0.0.1:7897
+[https]
+        proxy = http://127.0.0.1:7897
+[alias]
+        cl = clone
+        co = checkout
+        br = branch
+        ci = commit
+        st = status
+        lg = log --oneline --decorate --graph
+[push]
+        default = current
+[init]
+        defaultBranch = main
