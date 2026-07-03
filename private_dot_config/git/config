@@ -6,9 +6,9 @@
 [color]
         ui = true
 [http]
-        proxy = http://127.0.0.1:7897
+        proxy = http://127.0.0.1:6268
 [https]
-        proxy = http://127.0.0.1:7897
+        proxy = http://127.0.0.1:6268
 [alias]
         cl = clone
         co = checkout

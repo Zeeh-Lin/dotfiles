@@ -1,5 +1,6 @@
 # PATH
 export PATH="${HOME}/.local/bin:${PATH}"
+export PATH="$PATH:/opt/nvim"
 
 # HISTFILE PATH
 export HISTFILE="${XDG_DATA_HOME}/zsh/history"
